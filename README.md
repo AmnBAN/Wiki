@@ -1,2 +1,2 @@
 # Wiki
-amnban wiki
+Amnban Wiki
